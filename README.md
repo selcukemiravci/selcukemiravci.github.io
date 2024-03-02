@@ -1,6 +1,6 @@
 # Personal Portfolio - Emir Avci
 
-This personal portfolio is based on the open-source vCard design by [codewithsadee](https://github.com/codewithsadee). It has been adapted and revised to fit my personal preferences and branding.
+This personal portfolio is based on the open-source vCard design by [codewithsadee](https://github.com/codewithsadee). It has been adapted and revised to fit my personal preferences and branding.  
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
 ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
